@@ -1,0 +1,21 @@
+args:
+  bungee:
+  - hub
+  name:
+  - forhub
+  destination:
+  - forhub
+  triggerblock:
+  - NETHER_PORTAL
+  portalEvent:
+  - 'false'
+maxLoc:
+  posX: 37
+  posY: 69
+  posZ: -13
+  worldName: world
+minLoc:
+  posX: 33
+  posY: 64
+  posZ: -13
+  worldName: world
